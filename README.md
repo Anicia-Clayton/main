@@ -1,4 +1,4 @@
-# world-happiness
+# global-happiness-report
 
 •	Project Title
 
@@ -7,6 +7,7 @@ o	Including a descriptive title that states the type of analysis and project dra
 •	Project Overview
 
 o	A project overview should be a few sentences long stating the problem you solved, what data was used in the project, and your modeling results. 
+
 •	Business Understanding 
 
 o	You should have a section that showcases the stakeholder(s) and the business problem you tried to solve. Feel free to add citations of research you did on your business problem here as well. 
